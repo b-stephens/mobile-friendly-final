@@ -6,7 +6,7 @@
 $contact_email_to = "";
 
 // Subject prefix
-$contact_subject_prefix = "Contat Form Message: ";
+$contact_subject_prefix = "Contact Form Message: ";
 
 // Name too short error text
 $contact_error_name = "Name is too short or empty!";
