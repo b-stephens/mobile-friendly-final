@@ -186,6 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #2b2b2b;
 	font-size: 32px;
 	font-weight: 700;
+    text-align: center;
 }
 
 .botm-line {
@@ -255,17 +256,7 @@ h3.txt-tl {
     position: relative;
     padding: 88px 0 67px 0;
     display: block;
-}
-
-.cta-txt h3 {
-    font-size: 32px;
-    margin-bottom: 10px;
-    font-weight: 700;
-    color: #fff;
-}
-
-.cta-txt p {
-    color: #fff;
+    height: 400px;
 }
 
 /****/
