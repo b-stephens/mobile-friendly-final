@@ -288,6 +288,10 @@ h3.txt-tl {
     background-image: url('../img/ice-cream.jpg');
 }
 
+.carousel-caption {
+    padding-bottom: 8em;
+}
+
 /*End Carousel*/
 
 /*Contact section*/
